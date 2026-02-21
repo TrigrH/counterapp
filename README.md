@@ -21,11 +21,10 @@ It is built with different design goals in mind:
 - Full turn timer and game timer solution, with override admin controls in case anyone makes a mistake.
 - You can even link your turn timer and game timer together for improved ease of use.
 - And now my favourite feature: **Proximity Wake Mode**.  
-
-  Scared of OLED burn-in?  
-  Don’t want your screen on all the time?  
-  Want to save battery?  
-  Don’t want people touching your device?  
+  - Scared of OLED burn-in?  
+  - Don’t want your screen on all the time?  
+  - Want to save battery?  
+  - Don’t want people touching your device?  
 
   In a bright enough room, simply wave your hand over the top of the device and it will wake before you even touch it.
 

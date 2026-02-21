@@ -1,10 +1,20 @@
 # Why Use My App?
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/3836b2f9-24fa-4c24-b1d8-bf0cd4cbc63d" width="25%" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/f1fef0f3-3d32-4e62-ae6d-449e30080efa" width="25%" />
-</p>
+<table align="center">
+  <tr>
+    <td valign="center">
+      <img src="https://github.com/user-attachments/assets/c1286fa1-f5fc-4568-a611-ccb0a647cb82" width="250">
+    </td>
+    <td width="20"></td>
+    <td valign="top">
+      <img src="https://github.com/user-attachments/assets/3836b2f9-24fa-4c24-b1d8-bf0cd4cbc63d" width="250">
+    </td>
+    <td width="20"></td>
+    <td valign="top">
+      <img src="https://github.com/user-attachments/assets/f1fef0f3-3d32-4e62-ae6d-449e30080efa" width="250">
+    </td>
+  </tr>
+</table>
 
 **Counter** is a little different.
 

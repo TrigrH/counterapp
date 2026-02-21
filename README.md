@@ -28,7 +28,7 @@ It is built with the following design goals in mind:
   - A clear interface that always has your commmander damage on display.
   - Even supports 8 player commander, for those 24hr gaming sessions :)
 - Free (on Android), tiny - under 4mb download, and the source will be available on GitHub.
-- Zero backend server requirements. No API nonsense — it’s a life counter; you don’t need that.
+- Fully offline with zero backend server requirements. No MTG IP. No API nonsense — it’s a life counter; you don’t need that.
 - Future-proof design. A new mechanic you need to track comes out tomorrow? Already supported. You can create any floating labels or counters you like — it even supports emoji to track colored mana.
 - Fully customizable. Per-player editing lets you size, rotate, and move the counter stack. Your device, your layout.
 - Full autosaving. Accidentally close the app? No problem — it remembers.

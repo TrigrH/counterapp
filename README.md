@@ -17,9 +17,10 @@ It is built with the following design goals in mind:
 - Fully customizable. Per-player editing lets you size, rotate, and move the counter stack. Your device, your layout.
 - Full autosaving. Accidentally close the app? No problem — it remembers.
 - Different settings for different playgroups? No problem — a full user profile solution with importing and exporting your settings.
-- Dedicated reset menu. Reset only what you want.
+- Dedicated reset menu. Reset only what you want and pick the starting player automatically!
 - A fully featured dice and coin menu, letting you roll multiple dice or coins at once.
 - Full turn timer and game timer solution, with override admin controls in case anyone makes a mistake.
+  - Turn timer: Count up, Count down, Per Game, Per Turn, Custom turn ordering.
   - You can even link your turn timer and game timer together for improved ease of use.
 - And now my favourite feature: **Proximity Wake Mode**.  
   - Scared of OLED burn-in?  

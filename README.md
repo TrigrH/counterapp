@@ -35,5 +35,5 @@ It is built with different design goals in mind:
 
 - Hold `+` or `–` for rapid +10 input. Works for both counters and life totals.
 - Need to quickly pause your turn timer? Hold your finger on the timer to pause it. If your timers are linked, you can just tap the game timer to pause both instead.
-- Need to switch between Day and Night? Create a single label: `Day_______Night` and drag it to either screen edge to switch between them (hiding the inactive mode off-screen).
+- Need to switch between Day and Night? Use the floating label: `Day        Night` and drag it to either screen edge to switch between them (hiding the inactive mode off-screen).
 - Want to pass the Monarch around? Create a floating label and move it. Easy.

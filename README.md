@@ -10,14 +10,14 @@
 
 It is built with the following design goals in mind:
 
-- A modular, minimal, clean interface.
+- A modular, minimal, clean interface, Zero Ads.
 - A function-over-form design that keeps you in the game and spending less time fiddling around.
 - A “perfect” Commander damage solution:
   - Easy to use — just draw/drag a line to who you’re attacking. That’s it.
   - Supports Partners with no extra effort, Infect commanders, and self-damage.
   - A clear interface that always has your commmander damage on display.
   - Even supports 8 player commander, for those 24hr gaming sessions :)
-- Free (on Android),  tiny - under 4mb download, and the source will be available on GitHub.
+- Free (on Android), tiny - under 4mb download, and the source will be available on GitHub.
 - Zero backend server requirements. No API nonsense — it’s a life counter; you don’t need that.
 - Future-proof design. A new mechanic you need to track comes out tomorrow? Already supported. You can create any floating labels or counters you like — it even supports emoji to track colored mana.
 - Fully customizable. Per-player editing lets you size, rotate, and move the counter stack. Your device, your layout.

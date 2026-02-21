@@ -1,6 +1,9 @@
 # Why Use My App?
-![Screenshot_20260222_095505](https://github.com/user-attachments/assets/3836b2f9-24fa-4c24-b1d8-bf0cd4cbc63d)
-![Screenshot_20260222_095436](https://github.com/user-attachments/assets/f1fef0f3-3d32-4e62-ae6d-449e30080efa)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3836b2f9-24fa-4c24-b1d8-bf0cd4cbc63d" width="45%" />
+  <img src="https://github.com/user-attachments/assets/f1fef0f3-3d32-4e62-ae6d-449e30080efa" width="45%" />
+</p>
 
 **Counter** is a little different.
 

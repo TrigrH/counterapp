@@ -1,0 +1,39 @@
+Privacy Policy
+
+Last updated: March 7, 2026
+
+Thank you for using Counter - MTG Life Tracker app. This Privacy Policy explains how information is handled when you use the application.
+
+Information We Collect
+
+This app does not collect, store, or transmit any personal information to the developer or third parties.
+
+Local Data Storage
+
+The app stores certain settings locally on your device in order to remember your preferences and improve usability. This information remains on your device and is not transmitted to any external servers.
+
+Device Sensors
+
+The app uses the device's ambient light sensor to detect changes in light levels in order to wake or activate the display during gameplay. Sensor data is processed only in real time on the device and is not recorded, stored, or transmitted.
+
+Donations
+
+The app may include a link to an external donation page to support development. If you choose to follow this link, you will be directed to a third-party website. Any information you provide on that site is governed by that service's own privacy policy.
+
+Third-Party Services
+
+This app does not use advertising services, analytics tools, or other third-party tracking technologies.
+
+Children's Privacy
+
+The app does not knowingly collect personal information from anyone, including children under the age of 13.
+
+Changes to This Privacy Policy
+
+This Privacy Policy may be updated from time to time. Any changes will be reflected on this page.
+
+Contact
+
+If you have any questions about this Privacy Policy, please contact:
+
+[trigrhgoogle@outlook.com](mailto:trigrhgoogle@outlook.com)

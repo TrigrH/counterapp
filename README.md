@@ -25,7 +25,7 @@ It is built with the following design goals in mind:
 - A “perfect” Commander damage solution:
   - Easy to use — just draw/drag a line to who you’re attacking. That’s it.
   - Supports Partners with no extra effort, Infect commanders, and self-damage.
-  - A clear interface that always has your commmander damage on display.
+  - A clear interface that always has your commander damage on display.
   - Even supports 8 player commander, for those 24hr gaming sessions :)
 - Free (on Android), tiny - under 4mb download, and the source will be available on GitHub.
 - Fully offline with zero backend server requirements. No MTG IP. No API nonsense — it’s a life counter; you don’t need that.

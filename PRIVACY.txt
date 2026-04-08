@@ -1,16 +1,23 @@
 Privacy Policy
 
-Last updated: March 7, 2026
+Last updated: April 9, 2026
 
 Thank you for using Counter - MTG Life Tracker app. This Privacy Policy explains how information is handled when you use the application.
 
 Information We Collect
 
-This app does not collect, store, or transmit any personal information to the developer or third parties.
+This app does not collect, store, or transmit any personal information to the developer or third parties. No user accounts are required or created to use this app.
 
 Local Data Storage
 
-The app stores certain settings locally on your device in order to remember your preferences and improve usability. This information remains on your device and is not transmitted to any external servers.
+The app stores certain settings locally on your device in order to remember your preferences and improve usability. This information remains on your device and is never transmitted to any external servers.
+
+Data Retention and Deletion (User Rights)
+Because we do not transmit or store your personal information on our servers, we do not retain any of your personal data.
+
+How long data is stored: The local settings and preferences mentioned above are retained on your device for as long as you have the app installed.
+
+How to delete your data: You can delete all locally stored app data at any time by uninstalling the app from your device, or by clearing the app's data/storage within your device's system settings. Because no data is sent to the developer, there is no need to submit a data deletion request to us.
 
 Device Sensors
 
